@@ -35,6 +35,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return name + "(" + countryCode + ") ma " + population + " ludności.";
+        return name + " (" + countryCode + ") ma " + population + " ludności.";
     }
 }
